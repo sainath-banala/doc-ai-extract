@@ -27,3 +27,8 @@ Example
 
 Upload your salary slip and ask "what is my net pay"
 The API will read the document and answer accurately.
+
+## Live Demo
+API is live at: https://doc-ai-extract.onrender.com/docs
+
+Try it directly in the browser — no setup needed.
